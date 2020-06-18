@@ -1,4 +1,4 @@
-{ [{
+ [{
      "id": "1",
      "titulo":"Piano bar" ,
      "año":"1984",
@@ -393,4 +393,4 @@
      "descripcion":"Meteora es un disco cargado de una estética plenamente callejera, con grandes influencias del grafiti y con el estilo único que les caracteriza. El nombre del mismo estuvo inspirado en la región rocosa de Meteora en Grecia, donde están construidos numerosos monasterios encima de las piedras.",
      "categoria":"Rock Alternativo"
 }]
-}
+
